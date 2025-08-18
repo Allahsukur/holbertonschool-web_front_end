@@ -320,7 +320,7 @@ ul.row {
     left: 0;
     width: 0;
     background-color: var(--color-white);
-    height: 0.2%;
+    height: 0.2rem;
 }
 
 .naav .nav-item:hover .nav-link::before {
