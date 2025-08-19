@@ -319,11 +319,11 @@ ul.row {
     top: 0;
     left: 0;
     width: 0;
-    background-color: var(--color-primary);
+    background-color: var(--color-white);
     height: 0.2rem;
 }
 
-.naav .nav-item:hover .nav-link::before {
+.nav .nav-item:hover .nav-link::before {
     width: 100%;
     background-color: var(--color-primary);
 }
